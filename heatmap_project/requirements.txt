@@ -1,0 +1,4 @@
+pillow==11.1.0  # для png
+python-dotenv==1.0.1  # для .env
+
+
